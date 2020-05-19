@@ -11,6 +11,8 @@ This is a game for guessing the secret word that is given via API. The applicati
 
 [Jest-expect-api](https://jestjs.io/docs/en/expect#expectvalue)
 
+[Random-Word-Server](https://github.com/flyrightsister/udemy-react-testing-projects/tree/master/random-word-server)
+
 ## Available Scripts
 
 In the project directory, you can run:
