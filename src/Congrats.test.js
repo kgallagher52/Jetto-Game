@@ -1,12 +1,9 @@
 import React from 'react'
-import Enzyme, { shallow } from 'enzyme' // Creating virtual doms with adapter
-import EnzymeAdapter from 'enzyme-adapter-react-16'
+import { shallow } from 'enzyme' // Creating virtual doms with adapter
 
 import { findByTestAttr, checkProps } from '../test/testUtils'
 import Congrats from './Congrats' // What will be handing to shallow
-
-Enzyme.configure( { adapter: new EnzymeAdapter() } ) /* Will be refactored to be a boilerplate */
-
+ 
 const defaultProps = { success: false }
 
 /**
