@@ -13,6 +13,12 @@ This is a game for guessing the secret word that is given via API. The applicati
 
 [Random-Word-Server](https://github.com/flyrightsister/udemy-react-testing-projects/tree/master/random-word-server)
 
+## Extra packets being used
+
+[Prop-Types](https://www.npmjs.com/package/prop-types)
+
+[Check-Prop-Types](https://www.npmjs.com/package/check-prop-types)
+
 ## Available Scripts
 
 In the project directory, you can run:
