@@ -79,3 +79,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Components
+
+  1. Congrats
+  
+      - Child of App component
+      - App is connect component
+        - Access to success piece of state
+      - Pass success to Congrats as prop  
